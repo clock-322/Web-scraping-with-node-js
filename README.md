@@ -1,8 +1,6 @@
 ## `Web scraping using node js`
 This is a project about web scraping which scrap data of a product present on flipkart. This module can be used to scrap data of any website.
 
-In the project directory, you can run:
-
 ## `Getting Started`
 These instructions will get you a basic requirements to run this project.
 ### `npm start`
