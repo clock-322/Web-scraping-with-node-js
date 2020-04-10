@@ -3,7 +3,8 @@ This is a project about web scraping which scrap data of a product present on fl
 
 ## `Getting Started`
 These instructions will get you a basic requirements to run this project.
-### `npm start`
+### `nodemon index.js`
+- [**Nodemon**](https://www.npmjs.com/package/nodemon)
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
